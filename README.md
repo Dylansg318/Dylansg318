@@ -1,6 +1,6 @@
 ## Dylan San Gabriel
 
-Software engineer in Northern Virginia. I built and run the ERP, the ERP a
+Software engineer in Northern Virginia. I built and run the ERP a
 six-channel dental distributor operates on — order intake, inventory, repricing,
 shipping, customer service and the books, one codebase, as its only engineer.
 
@@ -12,8 +12,8 @@ shipping, customer service and the books, one codebase, as its only engineer.
 
 The ERP is the company's and stays private. These are the parts that stand on their own.
 
-- **[Portfolio/code](https://github.com/Dylansg318/Portfolio/tree/main/code)** — thirteen
-  sanitized production modules, with their tests and the reasoning kept: GS1 barcode
+- **[Portfolio/code](https://github.com/Dylansg318/Portfolio/tree/main/code)** — sixteen
+  sanitized modules from the ERP and my own tooling, with their tests and the reasoning kept: GS1 barcode
   parsing, a ZPL thermal-label renderer, carrier-invoice parsers whose column meanings
   were derived against invoice totals rather than trusted from a spec, a self-updating
   device agent that is never allowed to update its own rollback path, and the file locks
