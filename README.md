@@ -12,7 +12,7 @@ shipping, customer service and the books, one codebase, as its only engineer.
 
 The ERP is the company's and stays private. These are the parts that stand on their own.
 
-- **[Portfolio/code](https://github.com/Dylansg318/Portfolio/tree/main/code)** — sixteen
+- **[dylansg.com/code](https://dylansg.com/code)** — sixteen
   sanitized modules from the ERP and my own tooling, with their tests and the reasoning kept: GS1 barcode
   parsing, a ZPL thermal-label renderer, carrier-invoice parsers whose column meanings
   were derived against invoice totals rather than trusted from a spec, a self-updating
@@ -22,8 +22,6 @@ The ERP is the company's and stays private. These are the parts that stand on th
   had what, get the split. On-device OCR, no language model, nothing leaves the phone.
   A receipt prints its own answer key, so a split that doesn't reconcile against the
   printed total is never shown.
-- **[Portfolio](https://github.com/Dylansg318/Portfolio)** — the site linked below.
-  Astro, TypeScript, Cloudflare Workers.
 
 ### Elsewhere
 
