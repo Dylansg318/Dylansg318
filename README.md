@@ -25,8 +25,8 @@ The ERP is the company's and stays private. These are the parts that stand on th
 
 ### Elsewhere
 
-[portfolio.dylansg0318.workers.dev](https://portfolio.dylansg0318.workers.dev) ·
-[Résumé](https://portfolio.dylansg0318.workers.dev/resume) ·
+[dylansg.com](https://dylansg.com) ·
+[Résumé](https://dylansg.com/resume) ·
 [LinkedIn](https://www.linkedin.com/in/dylan-san-gabriel/) ·
 dylansg0318@gmail.com
 
